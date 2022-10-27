@@ -10,6 +10,6 @@ My motivation to complete this challenge was to become a better coder and aquire
 
 ![alt text](assets/images/challenge-1-README-screenshot.png)
 
-## Credits
+## License
 
-https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-FSF-PT-10-2022-U-LOLC
+Please refer to the license in the repo.
