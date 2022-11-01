@@ -8,7 +8,7 @@ My motivation to complete this challenge was to become a better coder and aquire
 
 ## Usage
 
-![alt text](assets/images/challenge-1-README-screenshot.png)
+![Deployed Website](assets/images/challenge-1-README-screenshot.png)
 
 ## License
 
